@@ -1,0 +1,5 @@
+# Test mixed ALL and SINGLE sequence to hit remaining instruction branches
+GT4500,2,0,2,0
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO,SINGLE

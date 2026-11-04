@@ -1,0 +1,3 @@
+# Test SINGLE mode when primary is empty, tries secondary but secondary fails
+GT4500,0,0,10,1.0
+TORPEDO,SINGLE
