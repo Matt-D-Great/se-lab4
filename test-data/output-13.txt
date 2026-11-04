@@ -1,0 +1,4 @@
+SUCCESS  # GT4500 generated
+SUCCESS  # 1st primary
+SUCCESS  # 1st secondary
+SUCCESS  # primary is empty, falls back to secondary (wait, secondary is also empty now? Let's trace counts: both started with 1)
