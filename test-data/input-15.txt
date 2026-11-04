@@ -1,0 +1,5 @@
+# Test mixed sequence: ALL mode followed by SINGLE mode to cover mixed state branches
+GT4500,5,0,5,0
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO,SINGLE
